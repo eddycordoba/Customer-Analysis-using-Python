@@ -372,6 +372,6 @@ Jewelry Store Exterior
 
 ### **In closing, this analysis equips the jewelry store with actionable insights to enhance customer engagement and optimize operations. Understanding customer behavior, tailoring marketing strategies, and managing inventory effectively are key steps toward sustained growth and customer satisfaction.**
 
-###***Photograph*: A representative photograph of the jewelry store's exterior, showcasing its unique facade or branding, is a visual reminder of the physical presence behind the online store. It serves as a tangible connection to the brand and adds authenticity to the analysis.**
+### ***Photograph*: A representative photograph of the jewelry store's exterior, showcasing its unique facade or branding, is a visual reminder of the physical presence behind the online store. It serves as a tangible connection to the brand and adds authenticity to the analysis.**
 
 
