@@ -364,12 +364,13 @@ plt.show()
 
 # **Final Thoughts**:
 
-![Jewelry Store Exterior](https://instoremag.com/wp-content/uploads/2019/12/IMG_4783.jpg)
+<img width="540" alt="Jewelry-Store 2023-10-03 at 10 47 17 PM" src="https://github.com/eddycordoba/Customer-Analysis-using-Python/assets/114699310/d822b56a-1637-4b2c-8d18-176295516b99">
 
+Jewelry Store Exterior
 <sub><sup>*Credit: https://instoremag.com*</sup></sub>
 
 
-###**In closing, this analysis equips the jewelry store with actionable insights to enhance customer engagement and optimize operations. Understanding customer behavior, tailoring marketing strategies, and managing inventory effectively are key steps toward sustained growth and customer satisfaction.**
+### **In closing, this analysis equips the jewelry store with actionable insights to enhance customer engagement and optimize operations. Understanding customer behavior, tailoring marketing strategies, and managing inventory effectively are key steps toward sustained growth and customer satisfaction.**
 
 ###***Photograph*: A representative photograph of the jewelry store's exterior, showcasing its unique facade or branding, is a visual reminder of the physical presence behind the online store. It serves as a tangible connection to the brand and adds authenticity to the analysis.**
 
